@@ -1,0 +1,10 @@
+.container-fluid {
+    background-color: chocolate;
+}
+
+.carousel{
+    height: calc(100vh - 200px) !important;
+}
+.img {
+    height: calc(100vh - 200px) !important;
+}
